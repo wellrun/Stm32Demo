@@ -1,0 +1,15 @@
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\src\tasks.c
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\FreeRTOS.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\projdefs.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\FreeRTOSConfig.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\portable.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\portmacro.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\mpu_wrappers.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\task.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\list.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\timers.h
+.\objects\tasks.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\StackMacros.h

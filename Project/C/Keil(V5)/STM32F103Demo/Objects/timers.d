@@ -1,0 +1,14 @@
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\src\timers.c
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\FreeRTOS.h
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\timers.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\projdefs.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\FreeRTOSConfig.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\portable.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\portmacro.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\mpu_wrappers.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\task.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\list.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\queue.h
+.\objects\timers.o: ..\..\..\..\ThirdParty\FreeRTOSv8.0.1\inc\timers.h

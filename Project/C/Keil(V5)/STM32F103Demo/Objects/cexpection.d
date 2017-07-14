@@ -1,0 +1,15 @@
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\CExpection.c
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\Lang.h
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\CTypes.h
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\CStd.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\setjmp.h
+.\objects\cexpection.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\Macros.h
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\CExpection.h
+.\objects\cexpection.o: ..\..\..\..\Src\C\Common\Lang\Lang.h
